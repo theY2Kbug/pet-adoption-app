@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "499503629727",
+    "project_id": "pet-donation",
+    "storage_bucket": "pet-donation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499503629727:android:712f9fd412e814375429aa",
+        "android_client_info": {
+          "package_name": "com.example.pet_adoption_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499503629727-0aj3pa0gs9ig08v0n8in55k4ot9i725j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pet_adoption_app",
+            "certificate_hash": "dbc2d8546e44d00a523a39bdf5d5a25e0e65bb3f"
+          }
+        },
+        {
+          "client_id": "499503629727-hdvjg6au98ksam4b8c66s7d59bf0ln89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCvKwZPq_2heWwdQ6LbmDMpku8g84S8sA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499503629727-hdvjg6au98ksam4b8c66s7d59bf0ln89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
