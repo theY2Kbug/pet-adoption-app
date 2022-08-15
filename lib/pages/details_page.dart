@@ -155,8 +155,8 @@ class _DetailsPageState extends State<DetailsPage> {
               blastDirectionality: BlastDirectionality.explosive,
               emissionFrequency: 0.01,
               numberOfParticles: 25,
-              minBlastForce: 40,
-              maxBlastForce: 75,
+              minBlastForce: 20,
+              maxBlastForce: 30,
               gravity: 0.6,
             )
           ],
