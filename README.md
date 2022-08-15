@@ -1,16 +1,18 @@
-# pet_adoption_app
+# pet-adoption-app (adopt-me)
 
-A new Flutter project.
+Created a firestore collection with dummy data for a total of 300 pets (generated using macro - *write_data.dart*, refer to source code). The app (writes/fetches) data (to/from) the firestore collection to maintain state across app launches. The following are some of the features of the app.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+<ul>
+    <li>Simple and intuitive UI
+    <li>Pagination (15 pets are loaded at a time)
+    <li>A custom search delegate to search for pets by their name
+    <li>Interactive image viewer in the details page
+    <li>Confetti animation when a pet is adopted
+    <li>Adopted pets are sorted in chronological order
+    <li>Persistant light and dark mode
+</ul>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##
+Incase of any issues or further queries, please feel free to shoot a mail.
